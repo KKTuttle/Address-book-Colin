@@ -10,3 +10,7 @@
 .contact:hover {
   text-decoration: underline;
 }
+
+.entry-fade {
+  display: none;
+}
